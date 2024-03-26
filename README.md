@@ -5,7 +5,7 @@ Since industrialization, there has been an increasing concern about environmenta
 Data Source
 This dataset is a combined and cleaned version of the Historical Daily Ambient Air Quality Data released by the Ministry of Environment and Forests and Central Pollution Control Board of India under the National Data Sharing and Accessibility Policy (NDSAP).
 
-Tableau Dashboard Components
+# Tableau Dashboard Components
 1. Map Visualization
 Use geographical maps to visualize air quality levels across different states or regions in India.
 Color code the map markers based on the air quality index (AQI) or other relevant metrics.
@@ -28,6 +28,7 @@ Utilize bar charts or pie charts to represent the proportion of each pollutant.
 Use annotations to highlight specific data points, events, or trends that stand out in the analysis.
 Provide context and explanations for these annotations.
 
-Acknowledgments
+# Acknowledgments
+
 Ministry of Environment and Forests, India
 Central Pollution Control Board of India
